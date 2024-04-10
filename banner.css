@@ -1,0 +1,23 @@
+.banner {
+	background-image: url(../../images/ananas.jpg);
+	padding: 55px 0px;
+	background-size: cover;
+	background-position: left;
+	text-align: left;
+}
+
+.banner h1 {
+	font-size: 55px;
+	color: white;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 2,0;
+	margin-bottom: 50px;
+	color: white;
+	text-align: left;
+}
